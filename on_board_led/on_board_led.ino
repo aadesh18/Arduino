@@ -1,5 +1,7 @@
+// Comment the unused method before running. 
+ 
  // Method 1
-/*
+
 int led = 13;
 void setup() {
   // put your setup code here, to run once:
@@ -13,7 +15,7 @@ delay(500);
 digitalWrite(led, LOW);
 delay(500);
 }
-*/
+
 
 // Method 2
 
